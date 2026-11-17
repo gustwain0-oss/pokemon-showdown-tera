@@ -12,6 +12,8 @@ export const Formats: import('../sim/dex-formats').FormatList = [
             '-All Pokemon',
             '+Pikachu',
             '+Eevee',
+			   '+Testmon',
+			  
         ],
         searchShow: false,
     },
