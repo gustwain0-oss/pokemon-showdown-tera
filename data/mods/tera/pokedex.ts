@@ -1,7 +1,7 @@
 
 export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable = {
     testmon: {
-        num: -1,
+        num: -10001,
         name: "Testmon",
         types: ["Normal"],
         gender: "N",
