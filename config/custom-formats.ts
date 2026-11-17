@@ -3,8 +3,8 @@ export const Formats: import('../sim/dex-formats').FormatList = [
         section: "Custom Formats",
     },
     {
-        name: "[Gen 9] Custom Pokemon Only",
-        mod: 'gen9',
+        name: "[Gen 9] Tera",
+        mod: 'tera',
         ruleset: [
             'Team Preview',
             'HP Percentage Mod',
