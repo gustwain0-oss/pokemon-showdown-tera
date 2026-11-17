@@ -6199,7 +6199,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		name: "Spinda",
 		types: ["Normal"],
 		baseStats: { hp: 60, atk: 60, def: 60, spa: 60, spd: 60, spe: 60 },
-		abilities: { 0: "Own Tempo", 1: "Tangled Feet", H: "Contrary" },
+		abilities: { 0: "Own Tempo", 1: "Tangled Feet", H: "Pure Power" },
 		heightm: 1.1,
 		weightkg: 5,
 		color: "Brown",
