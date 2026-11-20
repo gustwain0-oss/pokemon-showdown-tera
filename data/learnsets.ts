@@ -79979,6 +79979,8 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			facade: ["8M", "7M"],
 			fairywind: ["8L10"],
 			falseswipe: ["8M", "8L15", "7M", "7L1"],
+			flareblitz: ["8M", "7M"],
+			flamethrower: ["8M", "7M"],
 			fly: ["8M", "7M"],
 			frustration: ["7M"],
 			gigaimpact: ["8M", "7M"],
