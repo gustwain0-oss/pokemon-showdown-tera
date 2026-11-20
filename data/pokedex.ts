@@ -15180,10 +15180,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	tapukoko: {
 		num: 785,
 		name: "Tapu Koko",
-		types: ["Electric", "Fairy"],
+		types: ["Fire", "Fairy"],
 		gender: "N",
 		baseStats: { hp: 70, atk: 115, def: 85, spa: 95, spd: 75, spe: 130 },
-		abilities: { 0: "Electric Surge", H: "Telepathy" },
+		abilities: { 0: "Electric Surge", H: "Moxie" },
 		heightm: 1.8,
 		weightkg: 20.5,
 		color: "Yellow",
