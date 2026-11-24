@@ -11025,7 +11025,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		name: "Joltik",
 		types: ["Bug", "Steel"],
 		baseStats: { hp: 105, atk: 187, def: 150, spa: 30, spd: 130, spe: 15 },
-		abilities: { 0: "Compound Eyes", 1: "Steelworker", H: "Interpid Sword" },
+		abilities: { 0: "Compound Eyes", 1: "Steelworker", H: "Intrepid Sword" },
 		heightm: 0.1,
 		weightkg: 0.6,
 		color: "Yellow",
